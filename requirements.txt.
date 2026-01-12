@@ -1,0 +1,4 @@
+# IPPI Scanner Dependencies
+# This tool uses the standard Python library.
+# Prerequisite: Google Cloud SDK (gcloud) must be installed and authenticated.
+google-cloud-iam
