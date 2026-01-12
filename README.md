@@ -48,8 +48,7 @@ Modify anything
 Example Finding
 
 📂 samples/discovery.json
-📸 samples/terminal_output.png
-
+[Evidence](outpout.png)
 This is a real-world pattern:
 
 Deleted Service Account
@@ -88,3 +87,4 @@ If this tool saved you time, reduced risk, or helped an audit:
 you can support development via GitHub Sponsors.
 
 No paywall. No locked features.
+
